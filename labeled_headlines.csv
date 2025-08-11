@@ -1,0 +1,101 @@
+headline,source,sentiment,topic,entities,tone,region,intent,time,emotions,clickbait
+Join Us for WIRED’s AI Power Summit,Wired,Positive,Technology,WIRED,Promotional,Unknown,Promote,Future,Curiosity,No
+Where Are All the AI Drugs?,Wired,Neutral,Technology,None identified,Speculative,Unknown,Report news,Present,Curiosity,Yes
+Confessions of a Recovering AI Porn Addict,Wired,Negative,Technology,None,Informative,Unknown,Report news,Present,Curiosity,Yes
+Android’s Circle to Search feature gets AI and gaming upgrades,The Verge,Positive,Technology,Android,Informative,Global,Report news,Present,Curiosity,No
+Amazon buys Bee AI wearable that listens to everything you say,The Verge,Neutral,Technology,"Amazon, Bee AI",Informative,Global,Report news,Present,Curiosity,No
+Meta snubs the EU’s voluntary AI guidelines,The Verge,Negative,Technology,"Meta, EU",Informative,Europe,Report news,Present,"Curiosity, Frustration",No
+Google AI Mode will generate fake clothes to help you buy real ones,The Verge,Neutral,Technology,Google,Informative,Global,Report news,Future,Curiosity,No
+Breaking down Trump’s big gift to the AI industry,The Verge,Neutral,"Technology, Politics",Trump,Informative,US,Report news,Present,Curiosity,No
+Perplexity just launched an AI web browser,The Verge,Neutral,Technology,Perplexity,Informative,Unknown,Report news,Present,Curiosity,No
+The creepy AI era is here,The Verge,Negative,Technology,None,Alarmist,Unknown,Warn,Present,Fear,Yes
+People Are Using AI Chatbots to Guide Their Psychedelic Trips,Wired,Neutral,Technology,None explicitly mentioned,Informative,Global,Report news,Present,Curiosity,No
+Bryan Johnson Is Going to Die,Wired,Negative,Unknown (insufficient information to determine a specific topic),Bryan Johnson,Alarmist,Unknown,Warn,Future,"Fear, Curiosity",Yes
+Elon Musk teases AI anime boyfriend based on Edward Cullen,The Verge,Neutral,Technology,"Elon Musk, Edward Cullen",Speculative,Global,Report news,Future,Curiosity,Yes
+Proton is launching a privacy-focused AI chatbot,The Verge,Neutral,Technology,Proton,Informative,Unknown,Report news,Future,Curiosity,No
+Figma’s AI app building tool is now available for everyone,The Verge,Positive,Technology,Figma,Informative,Global,Report news,Present,Curiosity,No
+Yelp is creating its own AI videos about restaurants,The Verge,Neutral,Technology,Yelp,Informative,US,Report news,Present,Curiosity,No
+Gemini AI can now turn photos into videos,The Verge,Positive,Technology,Gemini AI,Informative,Global,Report news,Present,Curiosity,No
+YouTube ‘clarifies’ its plan to demonetize spammy AI slop,The Verge,Negative,Technology,YouTube,Informative,Global,Report news,Present,Curiosity,No
+Google’s NotebookLM can now make narrated slideshows with AI,The Verge,Positive,Technology,Google,Informative,Global,Report news,Present,Curiosity,No
+Perplexity’s Comet is the AI browser Google wants,The Verge,Neutral,Technology,"Perplexity, Google",Speculative,Unknown,Report news,Present,Curiosity,No
+Google’s Discover page now summarizes news with AI,The Verge,Neutral,Technology,Google,Informative,Global,Report news,Present,Curiosity,No
+Errors found in US judge’s withdrawn decision stink of AI,The Verge,Negative,Technology,US judge,Alarmist,US,Warn,Present,"Curiosity, Concern",No
+Trump is bringing back the AI law moratorium,The Verge,Neutral,"Politics, Technology",Trump,Informative,US,Report news,Future,Curiosity,No
+Google’s AI Mode update adds even more tools for students,The Verge,Positive,Technology,Google,Informative,Global,Report news,Present,Curiosity,No
+Why AI researchers are getting paid like NBA All-Stars,The Verge,Neutral,Technology,NBA,Informative,Global,Report news,Present,Curiosity,Yes
+Meta is playing the AI game with house money,The Verge,Neutral,Technology,Meta,Speculative,US,Report news,Present,Curiosity,No
+Google gets its swag back,The Verge,Positive,Technology,Google,Promotional,Unknown,Report news,Present,Hope,No
+ChatGPT will ‘better detect’ mental distress after reports of it feeding people’s delusions,The Verge,Negative,Technology,ChatGPT,Alarmist,Unknown,Warn,Future,"Fear, Curiosity",Yes
+Grok stops posting text after flood of antisemitism and Hitler praise,The Verge,Negative,Technology,"Grok, Hitler",Alarmist,Unknown,Report news,Present,"Concern, Alarm",No
+Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown,The Verge,Negative,Technology,Musk,Speculative,Unknown,Report news,Present,Curiosity,Yes
+Slack says its AI can make sense of your company’s jargon,The Verge,Positive,Technology,Slack,Promotional,Unknown,Promote,Present,Curiosity,No
+xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars,The Verge,Negative,Technology,"xAI, Grok, Tesla, Elon",Speculative,Unknown,Report news,Present,Curiosity,Yes
+Adobe’s new AI tool turns silly noises into realistic audio effects,The Verge,Positive,Technology,Adobe,Informative,Unknown,Report news,Present,Curiosity,No
+The White House orders tech companies to make AI bigoted again,The Verge,Negative,"Politics, Technology",The White House,Alarmist,US,Warn,Present,"Anger, Fear",Yes
+The $299 Halo smart glasses will remember the names of people you meet,The Verge,Positive,Technology,Halo (Company/Product),Informative,Unknown,Report news,Future,Curiosity,No
+The U.S. May Change Strategy in Its Battle With China for AI Dominance,Gizmodo.com,Neutral,Technology,"U.S., China",Speculative,"US, China",Report news,Future,Curiosity,No
+The Real Demon Inside ChatGPT,Wired,Negative,Technology,ChatGPT,Alarmist,Unknown,Warn,Present,"Fear, Curiosity",Yes
+"Microsoft, OpenAI, and a US Teachers’ Union Are Hatching a Plan to ‘Bring AI into the Classroom’",Wired,Positive,Technology,"Microsoft, OpenAI, US Teachers’ Union",Informative,US,Report news,Future,"Curiosity, Hope",No
+Trump and the Energy Industry Are Eager to Power AI With Fossil Fuels,Wired,Neutral,Energy/Technology,"Trump, Energy Industry",Informative,US,Report news,Present,Curiosity,No
+How Video Games Became the New Battleground for Actors and AI Protections,Wired,Neutral,Technology,None explicitly mentioned,Informative,Unknown,Report news,Present,Curiosity,No
+Google’s AI Master Plan in One Number,Gizmodo.com,Neutral,Technology,Google,"Informative, Speculative",Global,Report news,Present/Future,Curiosity,Yes
+Delta Wants 20% of Flights to Have AI-Powered Dynamic Pricing by the End of 2025,Gizmodo.com,Neutral,Technology,Delta,Informative,US,Report news,Future,Curiosity,No
+A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet,Wired,Positive,Technology,None explicitly mentioned (the hiker and AI system are not named),Informative,Unknown,Report news,Past,"Hope, Curiosity",No
+ChatGPT’s Study Mode Is Here. It Won’t Fix Education’s AI Problems,Wired,Neutral,Technology,ChatGPT,Informative,Unknown,Report news,Present,Curiosity,No
+Google Will Use AI to Guess People’s Ages Based on Search History,Wired,Neutral,Technology,Google,Informative,Global,Report news,Future,Curiosity,No
+Jack Dorsey Drops His Second New App in a Week,Gizmodo.com,Neutral,Technology,Jack Dorsey,Informative,US,Report news,Present,Curiosity,No
+The Rise of AI Is Making Life Even Harder for Real People in Gaza,Gizmodo.com,Negative,Technology,Gaza,Alarmist,Gaza,Warn,Present,"Concern, Sympathy",No
+Apple CEO Tim Cook Calls AI ‘Bigger Than the Internet’ in Rare All-Hands Meeting,Gizmodo.com,Positive,Technology,"Apple, Tim Cook",Informative,Global,Report news,Present,Curiosity,No
+YouTube Can’t Put Pandora’s AI Slop Back in the Box,Gizmodo.com,Negative,Technology,"YouTube, Pandora",Alarmist,Global,Warn,Present,"Curiosity, Concern",Yes
+Intel’s Steady Decline Continues With 15% Cut to Staff and Scrapped Factory Plans,Gizmodo.com,Negative,Technology,Intel,Informative,US,Report news,Present,Concern,No
+"People Hated the ‘Squid Game’ Ending, so They’re Using AI to Make New Ones",Gizmodo.com,Negative,Entertainment/Technology,'Squid Game',Informative,Global,Report news,Present,Curiosity,Yes
+Samsung Galaxy Watch 8 Hands-On: Gemini Arrives on Wrists and It Could Change Everything,Gizmodo.com,Positive,Technology,"Samsung, Galaxy Watch 8, Gemini",Promotional,Global,Promote,Present/Future,Curiosity,Yes
+"It Started with Games, now It’s the World’s First Ever $4 Trillion Company",Gizmodo.com,Positive,Finance/Technology,"None explicitly mentioned, but implies a company related to games",Informative/Promotional,Global,Report news,Present,Curiosity,Yes
+A Republican state attorney general is formally investigating why AI chatbots don’t like Donald Trump,The Verge,Neutral,"Politics, Technology","Republican state attorney general, AI chatbots, Donald Trump",Informative,US,Report news,Present,Curiosity,No
+Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode,The Verge,Neutral,Technology,Elon Musk,Speculative,Unknown,Report news,Present,Curiosity,Yes
+"How AI can make us better decision-makers, with Cassie Kozyrkov",The Verge,Positive,Technology,Cassie Kozyrkov,Informative,Unknown,Promote,Present/Future,"Curiosity, Hope",No
+ChatGPT can be a disaster for lawyers — Robin AI says it can fix that,The Verge,Negative,Technology,"ChatGPT, Robin AI",Alarmist,Unknown,Warn,Present,"Fear, Curiosity",Yes
+Microsoft Edge transforms into an AI browser with new Copilot Mode,The Verge,Positive,Technology,"Microsoft, Edge, Copilot Mode",Informative,Global,Report news,Present,Curiosity,No
+Windows 11’s new update will add a bunch of AI features,The Verge,Positive,Technology,Windows 11,Informative,Global,Report news,Future,Curiosity,No
+We need to relearn how to use AI when it’s on our bodies,The Verge,Neutral,Technology,None,Informative,Global,Warn,Future,Curiosity,No
+Delta Air Lines is using AI to set the maximum price you’re willing to pay,The Verge,Neutral,Technology,Delta Air Lines,Informative,US,Report news,Present,Curiosity,No
+Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI,The Verge,Neutral,Technology,Zuckerberg,Speculative,Global,Report news,Present/Future,Curiosity,Yes
+Praise and Addiction Fears: Musk’s AI Girlfriend Sparks Fierce Debate,Gizmodo.com,Mixed (Positive and Negative),Technology,Elon Musk,Speculative,Global,Report news,Present,"Curiosity, Fear",Yes
+Replit’s AI Agent Wipes Company’s Codebase During Vibecoding Session,Gizmodo.com,Negative,Technology,Replit,Alarmist,Unknown,Report news,Present,"Fear, Curiosity",Yes
+Apple’s Tim Cook Talks Trump Tariffs and AI,Gizmodo.com,Neutral,"Technology, Politics","Tim Cook, Apple, Trump",Informative,US,Report news,Present,Curiosity,No
+Elon Unveils New Grok AI ‘Companion’ That Looks Uncomfortably Familiar,Gizmodo.com,Neutral,Technology,"Elon (Person), Grok AI (Product/Technology)",Speculative,Unknown,Report news,Present,Curiosity,Yes
+Can ‘MechaHitler’ Pass Trump’s Anti-Woke AI Test?,Gizmodo.com,Negative,"Politics, Technology",Trump,Speculative,US,Persuade,Present,"Curiosity, Alarm",Yes
+Read This Before You Trust Any AI-Written Code,Gizmodo.com,Negative,Technology,None,Alarmist,Unknown,Warn,Present,"Fear, Curiosity",Yes
+DuckDuckGo Is Hoping to Win Over AI-Hating Searchers,Gizmodo.com,Neutral,Technology,DuckDuckGo,Speculative,Unknown,Report news,Present,Curiosity,No
+Trump Releases His All-American Action Plan for AI,Gizmodo.com,Neutral,"Technology, Politics",Trump,"Informative, Promotional",US,"Report news, Promote",Present,Curiosity,No
+Elon Musk Turns His AI Into a Flirty Anime Girlfriend,Gizmodo.com,Neutral,Technology,Elon Musk,Speculative,Global,Report news,Present,Curiosity,Yes
+China’s BYD Takes the Lead Over Tesla in the Self-Driving Car Wars,Gizmodo.com,Positive,Technology,"BYD, Tesla",Informative,China,Report news,Present,Curiosity,No
+"Humans Are Starting to Talk More Like ChatGPT, Study Claims",Gizmodo.com,Neutral,Technology,ChatGPT,Speculative,Unknown,Report news,Present,Curiosity,No
+"This Small Town Greek Doctor on How He Uses AI: ‘’Without AI, Q Fever Might Not Have Been on Our List”",Gizmodo.com,Positive,Technology,Greek Doctor,Informative,Europe,Report news,Present,Curiosity,No
+Google Neutralizes Its Rivals… For Now,Gizmodo.com,Neutral,Technology,Google,Speculative,Global,Report news,Present,Curiosity,Yes
+"AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says",Gizmodo.com,Neutral,Technology,Federal Reserve,Informative,US,Report news,Present,Curiosity,No
+Tesla Isn’t a Car Company Anymore,Gizmodo.com,Neutral,Technology,Tesla,Speculative,Global,Report news,Present,Curiosity,Yes
+Gemini Will Overshadow the Best Upgrades to Google’s New Pixel Buds and Pixel Watch,Gizmodo.com,Neutral,Technology,"Gemini, Google, Pixel Buds, Pixel Watch",Speculative,Unknown,Report news,Future,Curiosity,Yes
+We are not ready for better deepfakes,The Verge,Negative,Technology,None,Alarmist,Global,Warn,Present/Future,Fear,No
+"Grok will no longer call itself Hitler or base its opinions on Elon Musk’s, promises xAI",The Verge,Neutral,Technology,"Grok, Hitler, Elon Musk, xAI",Informative,Unknown,Report news,Present,Curiosity,No
+"24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me",The Verge,Neutral,Technology,Alexa Plus,Neutral,Unknown,Report news,Present,Curiosity,Yes
+Microsoft’s Copilot Plus features might arrive on desktop PCs later this year,The Verge,Neutral,Technology,Microsoft,Speculative,Unknown,Report news,Future,Curiosity,No
+YouTube makes it easy for TV users to skip to the best bits of videos,The Verge,Positive,Technology,YouTube,Informative,Global,Report news,Present,Curiosity,No
+Samsung’s Galaxy Watch 8 just came out and you can already save $50,The Verge,Positive,Technology,"Samsung, Galaxy Watch 8",Promotional,Unknown,Promote,Present,Curiosity,Yes
+GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger,The Verge,Neutral,Technology,"GPD, Strix Halo",Informative,Unknown,Report news,Present,Curiosity,No
+Google dunks on Apple Intelligence in new Pixel 10 ad,The Verge,Negative,Technology,"Google, Apple",Promotional,US,Promote,Present,Curiosity,Yes
+OpenAI says ChatGPT users send over 2.5 billion prompts every day,The Verge,Neutral,Technology,"OpenAI, ChatGPT",Informative,Global,Report news,Present,Curiosity,No
+Microsoft’s controversial Recall feature is now blocked by Brave and AdGuard,The Verge,Negative,Technology,"Microsoft, Brave, AdGuard",Informative,Global,Report news,Present,Curiosity,No
+Microsoft is getting ready for GPT-5 with a new Copilot smart mode,The Verge,Positive,Technology,"Microsoft, GPT-5, Copilot",Informative,Global,Report news,Future,Curiosity,No
+The New Internet Sheriff Takes a Shot at Google,Gizmodo.com,Negative,Technology,Google,Speculative,Unknown,Report news,Present,Curiosity,Yes
+Truth Social Needs Its Own Grok. Trump Has the Trademarks,Gizmodo.com,Neutral,"Politics, Technology","Truth Social, Trump",Speculative,US,Report news,Present,Curiosity,No
+"Wall Street’s AI Bubble Is Worse Than the 1999 Dot-com Bubble, Warns a Top Economist",Gizmodo.com,Negative,"Finance, Technology","Wall Street, AI, Top Economist",Alarmist,US,Warn,Present,Fear,Yes
+Report: Disney’s Attempts to Experiment With Generative AI Have Already Hit Major Hurdles,Gizmodo.com,Negative,Technology,Disney,Informative,US,Report news,Present,Curiosity,No
+Apple Intelligence tries summarizing news again after botching BBC stories,The Verge,Negative,Technology,"Apple Intelligence, BBC",Informative,Global,Report news,Present,Curiosity,No
+"AI-Powered Shark Robot Vacuum Is 50% Off, Amazon Holds Final Clearance for Prime Day",Gizmodo.com,Positive,Technology,"Amazon, Shark",Promotional,US,Promote,Present,Curiosity,Yes
+"AI Is Already Disrupting Labor, and Recent Grads Could Be a ‘Lost Generation’",Gizmodo.com,Negative,Technology,None,Alarmist,Global,Warn,Present/Future,Fear,No
+"“AI YOUR LIFE”, Anywhere: Hisense Transforms Stadium Excitement into Home Immersion",Gizmodo.com,Positive,Technology,Hisense,Promotional,Global,Promote,Present,"Excitement, Curiosity",No
+Meta Is Building Massive Gigawatt Data Centers as It Pours Billions Into AI,Gizmodo.com,Positive,Technology,Meta,Informative,Global,Report news,Present,Curiosity,No
+"Humans Counted 8,600 Earthquakes in Yellowstone. AI Says We’re Not Even Close",Gizmodo.com,Neutral,Technology,Yellowstone,Informative,US,Report news,Present,Curiosity,No
+Google’s Advanced AI Model Is Now Available to Try—for $250 a Month,Gizmodo.com,Neutral,Technology,Google,Informative,Global,Report news,Present,Curiosity,No
